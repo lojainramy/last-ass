@@ -1,0 +1,19 @@
+.homePage{
+    height: 100dvh;
+}
+.nav{
+    border-bottom: 3px solid rgb(255, 196, 0);
+}
+label{
+    font-size: x-large;
+    font-weight: 400;
+}
+#search{
+    border: 1px solid rgb(255, 196, 0);
+}
+.parent{
+   background:linear-gradient( rgb(235, 194, 60),black);
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
